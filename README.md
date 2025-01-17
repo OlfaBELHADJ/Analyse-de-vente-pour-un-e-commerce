@@ -1,22 +1,27 @@
-**Mise en Situation**:
+# FAIRE UNE ANALYSE DE VENTE POUR UN E-COMMERCE
+
+Ce projet s'inscrit dans le cadre de ma formation Data Analyst d'OpenClassrooms. 
+
+
+## Mise en Situation
 
 ![image](https://github.com/user-attachments/assets/c496b3c4-f80a-4dbf-b6d5-ad9f4914da71)
 
 Le Grand Marché est une entreprise de grande distribution active dans plusieurs secteurs (nourriture, biens de consommation et high tech). 
 Elle gère un entrepôt et livre à domicile les commandes effectuées par les clients sur son site Internet.
 
-**Mission**:
+## Mission
 
 Comme tous les débuts de mois, en tant que DataAnalyst au service marketing, ma mission est de travailler sur le rapport mensuel des actions marketing de mon équipe. 
 Pour cela, il  faudra : 
 
-Préparer la présentation des chiffres clés généraux.
+-Préparer la présentation des chiffres clés généraux.
 
-Réaliser les graphes correspondants.
+-Réaliser les graphes correspondants.
 
-Préparer le rapport des données spécifiques aux clients affiliés sur Excel.
+-Préparer le rapport des données spécifiques aux clients affiliés sur Excel.
 
-**Compétences**:
+## Compétences
 
 -Data Visualisation.
 
